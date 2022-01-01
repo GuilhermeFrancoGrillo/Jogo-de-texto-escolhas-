@@ -40,4 +40,5 @@ está apagado.
     porta.c
 <h6>
 >Ao entrar nessa porta (uma foice gigante passa raspando e faz um corte em seu queixo , quase que não é um golpe fatal)/(uma foice gigante acerta sua barriga e você morre)
+ Você vê um corredor escuro em sua frente
 
