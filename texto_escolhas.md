@@ -26,8 +26,9 @@ grande porta vermelha com uma fechadura
 uma biblioteca, aparentemente não há ninguém no local, você vê três portas, cada uma com uma
 placa em cima, porta.A("arsenal"), porta.B("cozinha"), na porta.c só é possivel ler "A.." o resto 
 está apagado.
-    
-    
+
+    #escolha porta.A: Ao você entrar no arsenal, você vê varias armas quebradas, e ao fundo da sala, perto da forja acesa, há um ferreiro, de aparência fragil, porém ao te perceber, ele (se você tiver uma arma qualquer), ele se oferece para melhorar sua arma em custo de mante-lo vivo, no final do dialogo ele te da uma chave e diz que pode tranca-lo nessa sala para que ele possa ser util depois.
+    #escolha porta.B: Nessa porta você encontra uma cozinha vazia, com uma folha escrita com um texto
 
 
 
