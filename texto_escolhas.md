@@ -46,5 +46,13 @@ está apagado.
   <h6> 
   >Ao você abrir a grande porta, você vê um cofre com uma senha de 6 dígitos e você vê uma placa escrita "Castell Of Zeron, Fazemos tudo pelo Zeron".
   <h2>
-      Ir para porta direita
+      Ir para porta esquerda
   <H6>
+   >armário de vassouras
+   <h2>
+     Ir para a porta direita:
+   <h6>
+     >Você ouve dois humanos no corredor indo para um salão dizendo sobre uma guerra, mas para você ouvir o resto da conversa você tem que segui-los, você vê também duas escadas, uma descendo e outra subindo, você vê ao lado da escada um tipo de mapa, que você tem que chegar perto para analizar
+     
+     
+     
