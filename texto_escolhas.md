@@ -13,7 +13,7 @@ com algo escrito e marcações de dias na parede
 escuro, você vê outra janela à sua esquerda, que há luz, ela está a 
 1 metro e meio de distância
 
-<h2>  arrombar porta 
+<h2>  Arrombar porta 
 <h6>
    >Ao você abrir a porta, que o leva há um corredor, vê __dois ogros__ conversando de costas
 para você a uns 5 metros, aparentemente, não te enxergaram ainda, um pouco mais perto, 
@@ -21,7 +21,7 @@ a 3 metros de você há duas portas uma na direita e outra na esquerda, ambas de
 há 4 metros de você há uma escrivaninha com uma espada e duas gavetas, uma embaixo e outra
 abaixo da anterior, a frente dos ogros há uma grande porta vermelha com uma fechadura.   
 <h2>
-        pulou janela
+        Pulou janela
 <h6>    
     >Ao você entrar nessa janela, você vê varios livros, você esta em 
 uma biblioteca, aparentemente não há ninguém no local, você vê três portas, cada uma com uma
@@ -29,16 +29,22 @@ placa em cima, porta.A("arsenal"), porta.B("cozinha"), na porta.c só é possive
 está apagado.
 
 <h2>
-        porta.A 
+        Porta.A 
 <h6>
         >Ao você entrar no arsenal, você vê varias armas quebradas, e ao fundo da sala, perto da forja acesa, há um ferreiro, de aparência fragil, porém ao te perceber, ele (se você tiver uma arma qualquer), ele se oferece para melhorar sua arma em custo de mante-lo vivo, no final do dialogo ele te da uma chave e diz que pode tranca-lo nessa sala para que ele possa ser util depois.
 <h2>
-     porta.B 
+     Porta.B 
 <h6>
 >Nessa porta você encontra uma cozinha vazia, com uma folha escrita com um texto
 <h2>
-    porta.c
+    Porta.c
 <h6>
 >Ao entrar nessa porta (uma foice gigante passa raspando e faz um corte em seu queixo , quase que não é um golpe fatal)/(uma foice gigante acerta sua barriga e você morre)
  Você vê um corredor escuro em sua frente
-
+ <h2>
+     Grande porta vermelha
+  <h6> 
+  >Ao você abrir a grande porta, você vê um cofre com uma senha de 6 dígitos e você vê uma placa escrita "Castell Of Zeron, Fazemos tudo pelo Zeron".
+  <h2>
+      Ir para porta direita
+  <H6>
