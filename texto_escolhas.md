@@ -36,5 +36,8 @@ está apagado.
      porta.B 
 <h6>
 >Nessa porta você encontra uma cozinha vazia, com uma folha escrita com um texto
-    
+<h2>
+    porta.c
+<h6>
+>Ao entrar nessa porta (uma foice gigante passa raspando e faz um corte em seu queixo , quase que não é um golpe fatal)/(uma foice gigante acerta sua barriga e você morre)
 
